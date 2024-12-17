@@ -11,9 +11,6 @@
 
 [MIRALab-USTC/L2O-G2MILP：这是 G2MILP 的代码，G2MILP 是一种基于深度学习的混合整数线性规划 （MILP） 实例生成器。 --- MIRALab-USTC/L2O-G2MILP: This is the code for G2MILP, a deep learning-based mixed-integer linear programming (MILP) instance generator.](https://github.com/MIRALab-USTC/L2O-G2MILP)
 
-
-让我帮您分析这些资源，并说明它们如何帮助解决混合整数规划问题。我会按照工具的实用性和学习价值来组织分析。
-
 ### 1. Python-MIP (coin-or/python-mip)
 这是最基础和实用的工具。Python-MIP 提供了一个开源的求解框架，特别适合入门学习和实际应用：
 
