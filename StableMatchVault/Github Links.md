@@ -1,16 +1,7 @@
-[sudhan-bhattarai/CVRPTW_MILP： 在 python-gurobi API 中使用混合整数线性规划 （MILP） 解决具有时间窗口约束 （CVRPTW） 的有容量车辆路径问题。 --- sudhan-bhattarai/CVRPTW_MILP: Solving a Capacitated Vehicle Routing Problem with time windows constraints (CVRPTW) with Mixed Integer Linear Programming (MILP) in python-gurobi API.](https://github.com/sudhan-bhattarai/CVRPTW_MILP)
-
-[ANL-CEEESA/MIPLearn：使用混合整数线性规划 （MIP） 和机器学习 （ML） 的组合解决离散优化问题的框架 --- ANL-CEEESA/MIPLearn: Framework for solving discrete optimization problems using a combination of Mixed-Integer Linear Programming (MIP) and Machine Learning (ML)](https://github.com/ANL-CEEESA/MIPLearn)
-
+## Usable
 [coin-or/python-mip: Python-MIP: collection of Python tools for the modeling and solution of Mixed-Integer Linear programs](https://github.com/coin-or/python-mip)
 
-
-
 [mip-master/learning_mip：学习混合整数规划以解决实际决策问题的最佳资源。 --- mip-master/learning_mip: Your best resource to learn mixed-integer programming to solve practical decision-making problems.](https://github.com/mip-master/learning_mip)
-
-
-[MIRALab-USTC/L2O-G2MILP：这是 G2MILP 的代码，G2MILP 是一种基于深度学习的混合整数线性规划 （MILP） 实例生成器。 --- MIRALab-USTC/L2O-G2MILP: This is the code for G2MILP, a deep learning-based mixed-integer linear programming (MILP) instance generator.](https://github.com/MIRALab-USTC/L2O-G2MILP)
-
 ### 1. Python-MIP (coin-or/python-mip)
 这是最基础和实用的工具。Python-MIP 提供了一个开源的求解框架，特别适合入门学习和实际应用：
 
@@ -149,3 +140,10 @@ def generate_milp_instance(n_vars, n_constraints):
    - 开发新的求解技术
 
 这些工具和资源相互补充，形成了一个完整的混合整数规划学习和应用体系。通过系统学习和实践，您可以逐步掌握这一强大的优化工具。
+
+---
+[sudhan-bhattarai/CVRPTW_MILP： 在 python-gurobi API 中使用混合整数线性规划 （MILP） 解决具有时间窗口约束 （CVRPTW） 的有容量车辆路径问题。 --- sudhan-bhattarai/CVRPTW_MILP: Solving a Capacitated Vehicle Routing Problem with time windows constraints (CVRPTW) with Mixed Integer Linear Programming (MILP) in python-gurobi API.](https://github.com/sudhan-bhattarai/CVRPTW_MILP)
+
+[ANL-CEEESA/MIPLearn：使用混合整数线性规划 （MIP） 和机器学习 （ML） 的组合解决离散优化问题的框架 --- ANL-CEEESA/MIPLearn: Framework for solving discrete optimization problems using a combination of Mixed-Integer Linear Programming (MIP) and Machine Learning (ML)](https://github.com/ANL-CEEESA/MIPLearn)
+
+[MIRALab-USTC/L2O-G2MILP：这是 G2MILP 的代码，G2MILP 是一种基于深度学习的混合整数线性规划 （MILP） 实例生成器。 --- MIRALab-USTC/L2O-G2MILP: This is the code for G2MILP, a deep learning-based mixed-integer linear programming (MILP) instance generator.](https://github.com/MIRALab-USTC/L2O-G2MILP)
