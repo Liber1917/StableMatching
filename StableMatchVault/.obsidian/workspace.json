@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "944faf61adb29cfe",
@@ -165,15 +166,15 @@
   },
   "active": "cd3d5db67e78b13f",
   "lastOpenFiles": [
+    "Github Links.md",
+    "众包车货稳定路径规划问题建模.md",
     "tripleRelation.drawio.svg",
     "directedGraph.drawio.svg",
-    "众包车货稳定路径规划问题建模.md",
     "tripleRelation.drawio.xml",
     "triple-relation.html",
     "0-1混合整数规划求解.md",
     "HTML import/triple-relation.md",
     "HTML import",
-    "Github Links.md",
     "方法推荐.md",
     "方法介绍.md",
     "算法指标对比.png",
