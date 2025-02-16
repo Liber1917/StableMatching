@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "众包车货稳定路径规划问题建模"
             }
+          },
+          {
+            "id": "9c22b621c6b13d09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "论文简介：平台化稳定卡车匹配问题与拖车交换模式.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "论文简介：平台化稳定卡车匹配问题与拖车交换模式"
+            }
+          },
+          {
+            "id": "c1f5e19ed0d44374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "关于慕尼黑工业大学工程科学（工程学） 学士学位课程资格认定的章程Deepseek版.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "关于慕尼黑工业大学工程科学（工程学） 学士学位课程资格认定的章程Deepseek版"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +69,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -77,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "944faf61adb29cfe",
@@ -155,21 +184,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-importer:Open Importer": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "cd3d5db67e78b13f",
+  "active": "9c22b621c6b13d09",
   "lastOpenFiles": [
-    "Github Links.md",
     "众包车货稳定路径规划问题建模.md",
-    "tripleRelation.drawio.svg",
+    "论文简介：平台化稳定卡车匹配问题与拖车交换模式.md",
     "directedGraph.drawio.svg",
+    "关于慕尼黑工业大学工程科学（工程学） 学士学位课程资格认定的章程Deepseek版.md",
+    "关于慕尼黑工业大学工程科学（工程学）学士学位课程资格认定的章程Deepseek版.md",
+    "慕尼黑工业大学工程科学学士学位课程资格认定章程.md",
+    "Github Links.md",
+    "tripleRelation.drawio.svg",
     "tripleRelation.drawio.xml",
     "triple-relation.html",
     "0-1混合整数规划求解.md",
