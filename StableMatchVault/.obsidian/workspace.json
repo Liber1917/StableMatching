@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "6f53c6444cf6b785",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "模板论文考察.md"
+              },
+              "icon": "lucide-file",
+              "title": "模板论文考察"
+            }
+          },
+          {
             "id": "c1f5e19ed0d44374",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,12 +205,13 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "9c22b621c6b13d09",
+  "active": "6f53c6444cf6b785",
   "lastOpenFiles": [
-    "众包车货稳定路径规划问题建模.md",
-    "论文简介：平台化稳定卡车匹配问题与拖车交换模式.md",
-    "directedGraph.drawio.svg",
     "关于慕尼黑工业大学工程科学（工程学） 学士学位课程资格认定的章程Deepseek版.md",
+    "模板论文考察.md",
+    "论文简介：平台化稳定卡车匹配问题与拖车交换模式.md",
+    "众包车货稳定路径规划问题建模.md",
+    "directedGraph.drawio.svg",
     "关于慕尼黑工业大学工程科学（工程学）学士学位课程资格认定的章程Deepseek版.md",
     "慕尼黑工业大学工程科学学士学位课程资格认定章程.md",
     "Github Links.md",
